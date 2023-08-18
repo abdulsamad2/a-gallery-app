@@ -21,3 +21,14 @@ a {
 .MuiTabs-flexContainer{
   flex-wrap: wrap;
 }
+
+
+
+@media (min-width: 480px) {
+  .typing-container {
+    font-size: 22px!important;
+  }
+}
+.typing-container {
+  font-size: 40px!important;
+}

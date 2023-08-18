@@ -20,7 +20,7 @@ function WordTyping({ words }: WordsProps): JSX.Element {
       textArray={words}
       cursorColor="#333"
       textColor="#555"
-      fontSize="40px"
+     
       loop
       typingSpeed={60}
       delaySpeed={1000}
